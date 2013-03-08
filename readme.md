@@ -9,11 +9,13 @@ Toate orasele si satele in format CSV de tipul
 
 Longitudine | Latitudine | Denumire | Judet | Judet auto | Populatie | Regiune
 
-Notă: pentru a putea integra cu Google Maps trebuie sa folosit Y,X ex:
+Nota: pentru a putea integra cu Google Maps trebuie sa folosit Y,X ex:
 
 `23.57,46.07,"Alba Iulia","Alba","AB",65091,"Centru"`
 
 https://maps.google.com/maps?q=46.07,23.57
+
+Contine 13750 de inregistrari valabile in anul 2002.
 
 ### SQL
 
