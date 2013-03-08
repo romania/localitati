@@ -12,6 +12,7 @@ Longitudine | Latitudine | Denumire | Judet | Judet auto | Populatie | Regiune
 * pentru a putea integra cu Google Maps trebuie sa folosit Y,X ex:
 
 `23.57,46.07,"Alba Iulia","Alba","AB",65091,"Centru"`
+
 https://maps.google.com/maps?q=46.07,23.57
 
 ### SQL
