@@ -19,7 +19,7 @@ Contine 13750 de inregistrari valabile in anul 2002.
 
 ### SQL
 
-$ mysq -u root -p localitati < judete-orase.sql
+$ mysql -u root -p localitati < judete-orase.sql
 
 ## TODO
 
