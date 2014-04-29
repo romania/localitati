@@ -21,6 +21,10 @@ Contine 13750 de inregistrari valabile in anul 2002.
 
 $ mysql -u root -p localitati < judete-orase.sql
 
+## Exemple
+
+http://hazzardweb.net/2013/04/localitatile-si-judetele-din-romania-in-sql/
+
 ## TODO
 
 * Mai multe formate!
