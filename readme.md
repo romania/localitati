@@ -34,3 +34,8 @@ http://hazzardweb.net/2013/04/localitatile-si-judetele-din-romania-in-sql/
 * CSV: http://www.cipy.ro/internet/baza-de-date-orase-comune-din-romania.html
 * SQL: http://skyweb.ro/2013/01/02/tabele-mysql-cu-judetele-si-localitatile-din-romania/
 * http://earth.unibuc.ro/download/romania-seturi-vectoriale
+
+## Contribuitori
+
+[Raku](https://github.com/raku)
+
