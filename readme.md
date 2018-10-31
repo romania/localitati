@@ -1,13 +1,13 @@
 ## Despre
 
-O baza de date de 13.749 localități, de la sate, adunate
+O bază de date de 13.749 localități, de la sate, adunate
 
 ## Baza de date
 
 ### CSV
-Toate orasele si satele in format CSV de tipul 
+Toate orasele și satele în format CSV de tipul 
 
-Longitudine | Latitudine | Denumire | Judet | Judet auto | Populatie | Regiune
+Longitudine | Latitudine | Denumire | Județ | Județ auto | Populație | Regiune
 
 Nota: pentru a putea integra cu Google Maps trebuie sa folosit Y,X ex:
 
@@ -15,7 +15,7 @@ Nota: pentru a putea integra cu Google Maps trebuie sa folosit Y,X ex:
 
 https://maps.google.com/maps?q=46.07,23.57
 
-Contine 13750 de inregistrari valabile in anul 2002.
+Conține 13750 de înregistrări valabile în anul 2002.
 
 ### SQL
 
